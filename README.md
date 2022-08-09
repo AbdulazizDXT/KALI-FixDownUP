@@ -14,13 +14,13 @@
 
 ## How to Use it? :
 
-  -```git clone git clone https://github.com/AbdulazizDXT/KALI-FixDownUP```
+  - ```git clone git clone https://github.com/AbdulazizDXT/KALI-FixDownUP```
 
-  -```cd KALI-FixDownUP```
+  - ```cd KALI-FixDownUP```
 
-  -```chmod +x FixedScript.sh```
+  - ```chmod +x FixedScript.sh```
 
-  -```./FixedScript.sh```
+  - ```./FixedScript.sh```
 
 #### Or, directly run :
 
