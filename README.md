@@ -25,7 +25,6 @@
 #### Or, directly run :
 ```
 git clone https://github.com/AbdulazizDXT/KALI-FixDownUP ;cd KALI-FixDownUP ;chmod +x FixedScript.sh ;./FixedScript.sh
-
 ```
 
  * Update run Automatically after Fixed problem.
