@@ -23,9 +23,8 @@
   - ```./FixedScript.sh```
 
 #### Or, directly run :
-
 ```
-git clone https://github.com/AbdulazizDXT/KALI-FixDownUP ;cd FixDownUP ;chmod +x FixedScript.sh ;./FixedScript.sh
+git clone https://github.com/AbdulazizDXT/KALI-FixDownUP ;cd KALI-FixDownUP ;chmod +x FixedScript.sh ;./FixedScript.sh
 
 ```
 
