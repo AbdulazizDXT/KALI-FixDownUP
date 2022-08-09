@@ -11,3 +11,14 @@
 ## How it works? :
 
   - This script updates the Source.list file and changes the download server from http.kali.org to kali.download (currently the fastest server).
+
+## How to Use it? :
+
+  -```git clone git clone https://github.com/AbdulazizDXT/KALI-FixDownUP```
+  -```cd KALI-FixDownUP```
+  -```chmod +x FixedScript.sh```
+  -```./FixedScript.sh```
+
+ * Update run Automatically after Fixed problem.
+ * Wait a moment...Enjoy! :)
+
