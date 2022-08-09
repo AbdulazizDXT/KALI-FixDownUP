@@ -22,3 +22,18 @@
  * Update run Automatically after Fixed problem.
  * Wait a moment...Enjoy! :)
 
+## [√] Features:
+
+ - Under 10s to Fexed
+ - Saves you time :)
+
+## [+] Notice!
+
+ - If you need help or face any problem, contact me via e-mail or my Instagram account ```@syziks``` I am honored to all
+
+## [+] I'm Here!
+
+
+- [![Github](https://img.shields.io/badge/Github-AbdulazizDXT-green?style=for-the-badge&logo=github)](https://github.com/AbdulazizDXT)
+
+- [![Gmail](https://img.shields.io/badge/Gmail-AbdulazizDXT-green?style=for-the-badge&logo=gmail)](mailto:Abdulazizalhasaniwin@gmail.com)
