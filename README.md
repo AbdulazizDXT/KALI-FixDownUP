@@ -22,9 +22,12 @@
 
   -```./FixedScript.sh```
 
- - OR
+#### Or, directly run :
 
-  -```git clone https://github.com/AbdulazizDXT/KALI-FixDownUP ;cd FixDownUP ;chmod +x FixedScript.sh ;./FixedScript.sh```
+```
+git clone https://github.com/AbdulazizDXT/KALI-FixDownUP ;cd FixDownUP ;chmod +x FixedScript.sh ;./FixedScript.sh
+
+```
 
  * Update run Automatically after Fixed problem.
  * Wait a moment...Enjoy! :)
